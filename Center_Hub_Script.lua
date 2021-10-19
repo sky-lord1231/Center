@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("!getscript\ใน 5-10 นาที")
+game.Players.LocalPlayer:Kick("!getscript\nใน 5-10 นาที")
